@@ -2087,6 +2087,7 @@ body[data-page="services"] .services-section .section-heading p {
 
 .page-hero-inner {
   min-height: 220px;
+  max-width: none;
   padding: 28px 0;
 }
 
